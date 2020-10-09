@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movie Store</string>
+    <string name="search_hint_msg">search by title</string>
+    <string name="production_year_label">Production year</string>
+    <string name="movie_genre_label">Movie genre</string>
+    <string name="search_result">Search result</string>
+</resources>
